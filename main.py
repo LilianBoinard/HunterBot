@@ -16,7 +16,7 @@ def logo():
     print("--------------------------------------")
 logo()
 
-botToken = "ODgzMDI2NTY0ODE4ODEyOTc4.YTD8kg.k_afsYkNEhkBO0wKM9GBEiaP0NM"
+botToken = "ODgzMDI2NTY0ODE4ODEyOTc4.YTD8kg.k_afsYkNEhkBO0wKM9GBEiaP0NM" # exemple token
 botDefaultChannel = 882998867828813869
 botErrorChannel = 883026122755936267
 botWelcomeChannel = 882998867828813866
